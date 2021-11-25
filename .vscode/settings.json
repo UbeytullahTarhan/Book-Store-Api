@@ -1,0 +1,6 @@
+{
+    "csharp.semanticHighlighting.enabled": true,
+    "csharp.suppressDotnetInstallWarning": true,
+    "csharp.suppressDotnetRestoreNotification": true,
+    "csharp.suppressProjectJsonWarning": true
+}
